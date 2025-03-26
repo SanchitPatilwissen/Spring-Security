@@ -199,3 +199,46 @@
 2025-03-25 17:11:22,828 [Worker-8: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-03-25 17:11:22,837 [Worker-8: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-03-25 17:11:22,841 [Worker-8: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-25 17:25:11,263 [Worker-10: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-25 17:25:11,268 [Worker-10: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-25 17:25:11,273 [Worker-10: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-25 17:35:26,895 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@255f81a4{STOPPING}[12.0.15,sto=0]
+2025-03-25 17:35:26,898 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@13c76d92{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-03-26 16:15:35,323 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-26 16:30:21,387 [Worker-7: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-26 16:30:21,409 [Worker-7: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-26 16:30:21,416 [Worker-7: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-26 16:30:56,930 [Worker-12: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-26 16:30:56,939 [Worker-12: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-26 16:30:56,945 [Worker-12: Launching SpringSecurity - SpringSecurityApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-26 17:04:18,069 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-26 17:04:18,075 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-26 17:04:18,079 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-26 17:05:08,310 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-26 17:05:08,314 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-26 17:05:08,318 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-26 17:07:15,165 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-26 17:07:15,168 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-26 17:07:15,171 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-26 17:08:26,884 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-26 17:08:26,888 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-26 17:08:26,890 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-26 17:09:15,096 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.15; built: 2024-11-05T19:44:57.623Z; git: 8281ae9740d4b4225e8166cc476bad237c70213a; jvm 21.0.5+11-LTS
+2025-03-26 17:09:15,153 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@ad21557{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@4a825c80{STARTED}}
+2025-03-26 17:09:15,154 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-26 17:09:15,189 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3aa36359{HTTP/1.1, (http/1.1)}{127.0.0.1:58140}
+2025-03-26 17:09:15,206 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@7a2291e6{STARTING}[12.0.15,sto=0] @3308089ms
+2025-03-26 17:10:28,958 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-26 17:10:28,961 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-26 17:10:28,964 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-26 17:13:30,345 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-26 17:13:30,349 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-26 17:13:30,352 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-26 17:26:09,650 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-26 17:26:09,662 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-26 17:26:09,665 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-26 17:45:14,503 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-26 17:45:14,508 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-26 17:45:14,512 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Wissen\Desktop\Spring Security\SpringSecurity\src\test\resources
+2025-03-26 17:45:18,768 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@7a2291e6{STOPPING}[12.0.15,sto=0]
+2025-03-26 17:45:18,771 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3aa36359{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
